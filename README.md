@@ -1,2 +1,1 @@
-# Covid-19ATK-checker
-prototype
+# prototype of Covid-19ATK-checker
